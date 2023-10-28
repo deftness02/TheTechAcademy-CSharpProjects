@@ -1,0 +1,7 @@
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\dailyReport\bin\Debug\dailyReport.exe.config
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\dailyReport\bin\Debug\dailyReport.exe
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\dailyReport\bin\Debug\dailyReport.pdb
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\dailyReport\obj\Debug\dailyReport.csproj.AssemblyReference.cache
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\dailyReport\obj\Debug\dailyReport.csproj.CoreCompileInputs.cache
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\dailyReport\obj\Debug\dailyReport.exe
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\dailyReport\obj\Debug\dailyReport.pdb

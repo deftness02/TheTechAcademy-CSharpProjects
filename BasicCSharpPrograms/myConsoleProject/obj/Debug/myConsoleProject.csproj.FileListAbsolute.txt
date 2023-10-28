@@ -1,0 +1,7 @@
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\myConsoleProject\bin\Debug\myConsoleProject.exe.config
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\myConsoleProject\bin\Debug\myConsoleProject.exe
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\myConsoleProject\bin\Debug\myConsoleProject.pdb
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\myConsoleProject\obj\Debug\myConsoleProject.csproj.AssemblyReference.cache
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\myConsoleProject\obj\Debug\myConsoleProject.csproj.CoreCompileInputs.cache
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\myConsoleProject\obj\Debug\myConsoleProject.exe
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\myConsoleProject\obj\Debug\myConsoleProject.pdb
