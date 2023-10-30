@@ -1,0 +1,15 @@
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/bin/Debug/net7.0/doWhileApp
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/bin/Debug/net7.0/doWhileApp.deps.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/bin/Debug/net7.0/doWhileApp.runtimeconfig.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/bin/Debug/net7.0/doWhileApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/bin/Debug/net7.0/doWhileApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/doWhileApp.csproj.AssemblyReference.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/doWhileApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/doWhileApp.AssemblyInfoInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/doWhileApp.AssemblyInfo.cs
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/doWhileApp.csproj.CoreCompileInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/doWhileApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/refint/doWhileApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/doWhileApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/doWhileApp.genruntimeconfig.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/doWhileApp/obj/Debug/net7.0/ref/doWhileApp.dll
