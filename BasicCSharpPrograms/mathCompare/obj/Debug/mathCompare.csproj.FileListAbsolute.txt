@@ -1,0 +1,7 @@
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\mathCompare\bin\Debug\mathCompare.exe.config
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\mathCompare\bin\Debug\mathCompare.exe
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\mathCompare\bin\Debug\mathCompare.pdb
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\mathCompare\obj\Debug\mathCompare.csproj.AssemblyReference.cache
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\mathCompare\obj\Debug\mathCompare.csproj.CoreCompileInputs.cache
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\mathCompare\obj\Debug\mathCompare.exe
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\mathCompare\obj\Debug\mathCompare.pdb
