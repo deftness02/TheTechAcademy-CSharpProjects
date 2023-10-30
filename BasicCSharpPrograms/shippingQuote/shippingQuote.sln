@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "shippingQuote", "shippingQuote.csproj", "{27E35521-6557-4ABA-9908-D74726FB59BE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{27E35521-6557-4ABA-9908-D74726FB59BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27E35521-6557-4ABA-9908-D74726FB59BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27E35521-6557-4ABA-9908-D74726FB59BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27E35521-6557-4ABA-9908-D74726FB59BE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
