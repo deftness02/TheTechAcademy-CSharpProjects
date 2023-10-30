@@ -1,0 +1,7 @@
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\insuranceApp\bin\Debug\insuranceApp.exe.config
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\insuranceApp\bin\Debug\insuranceApp.exe
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\insuranceApp\bin\Debug\insuranceApp.pdb
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\insuranceApp\obj\Debug\insuranceApp.csproj.AssemblyReference.cache
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\insuranceApp\obj\Debug\insuranceApp.csproj.CoreCompileInputs.cache
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\insuranceApp\obj\Debug\insuranceApp.exe
+C:\Users\ryan\source\repos\deftness02\TheTechAcademy-CSharpProjects\BasicCSharpPrograms\insuranceApp\obj\Debug\insuranceApp.pdb
