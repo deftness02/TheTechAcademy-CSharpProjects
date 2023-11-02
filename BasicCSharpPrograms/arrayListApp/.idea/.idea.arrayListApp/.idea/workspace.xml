@@ -8,16 +8,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4aed7dd4-caf2-4ac5-8759-e4ab02d5c6d3" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../cardDeckApp/Card.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cardDeckApp/Deck.cs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.arrayListApp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.arrayListApp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Program.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/arrayListApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/arrayListApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bin/Debug/net7.0/arrayListApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Debug/net7.0/arrayListApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/arrayListApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/arrayListApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/obj/Debug/net7.0/arrayListApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/obj/Debug/net7.0/arrayListApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doWhileApp/bin/Debug/net7.0/doWhileApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../doWhileApp/bin/Debug/net7.0/doWhileApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doWhileApp/bin/Debug/net7.0/doWhileApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../doWhileApp/bin/Debug/net7.0/doWhileApp.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doWhileApp/obj/Debug/net7.0/doWhileApp.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../doWhileApp/obj/Debug/net7.0/doWhileApp.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../doWhileApp/obj/Debug/net7.0/doWhileApp.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/../doWhileApp/obj/Debug/net7.0/doWhileApp.pdb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
