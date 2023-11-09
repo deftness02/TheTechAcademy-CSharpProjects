@@ -8,3 +8,10 @@ employee.LastName = "Student";
 // Call the inherited method
 employee.SayName();
 Console.ReadLine();
+
+// Instantiate the IQuittable interface
+IQuittable quittable = new Employee();
+
+// Call the Quit method from the IQuittable interface
+quittable.Quit();
+Console.ReadLine();

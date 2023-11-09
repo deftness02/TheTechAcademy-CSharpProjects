@@ -2,7 +2,7 @@ using DeckGame;
 
 namespace Blackjack;
 
-public class BlackjackGame : Game
+public class BlackjackGame : Game, IWalkAway
 {
     public override void Play()
     {
@@ -13,5 +13,10 @@ public class BlackjackGame : Game
     {
         Console.WriteLine("Blackjack Players:");
         base.ListPlayers();
+    }
+
+    public void WalkAway(Player player)
+    {
+        throw new NotImplementedException();
     }
 }
