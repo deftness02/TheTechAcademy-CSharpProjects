@@ -1,4 +1,4 @@
-namespace cardDeckApp;
+namespace DeckGame;
 
 public class Card
 {

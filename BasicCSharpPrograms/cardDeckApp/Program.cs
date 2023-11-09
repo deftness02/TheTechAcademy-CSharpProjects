@@ -1,16 +1,13 @@
-﻿using cardDeckApp;
+﻿using DeckGame;
+using Blackjack;
 
 BlackjackGame game = new BlackjackGame();
-game.Dealer = "Angus MacAngus";
-game.Name = "Blackjack";
-game.Players = new List<string>() { "Joe", "Bob", "Sally" };
+game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
 game.ListPlayers();
-game.Play();
 Console.ReadLine();
 
 Deck deck = new Deck();
-var timesShuffled = 3;
-deck = Deck.Shuffle(deck, timesShuffled);
+Deck.Shuffle(deck, 3);
 
 foreach (var card in deck.Cards)
 {

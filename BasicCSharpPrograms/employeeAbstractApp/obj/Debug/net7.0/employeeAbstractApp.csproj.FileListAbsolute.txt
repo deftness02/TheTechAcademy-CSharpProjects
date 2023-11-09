@@ -1,0 +1,15 @@
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/bin/Debug/net7.0/employeeAbstractApp
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/bin/Debug/net7.0/employeeAbstractApp.deps.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/bin/Debug/net7.0/employeeAbstractApp.runtimeconfig.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/bin/Debug/net7.0/employeeAbstractApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/bin/Debug/net7.0/employeeAbstractApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/employeeAbstractApp.csproj.AssemblyReference.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/employeeAbstractApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/employeeAbstractApp.AssemblyInfoInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/employeeAbstractApp.AssemblyInfo.cs
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/employeeAbstractApp.csproj.CoreCompileInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/employeeAbstractApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/refint/employeeAbstractApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/employeeAbstractApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/employeeAbstractApp.genruntimeconfig.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/employeeAbstractApp/obj/Debug/net7.0/ref/employeeAbstractApp.dll
