@@ -5,8 +5,8 @@ public class Deck
     public Deck()
     {
         Cards = new List<Card>();
-        List<string> suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-        List<string> faces = new List<string>()
+        var suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
+        var faces = new List<string>()
         {
             "Ace", "Two", "Three", "Four", "Five", "Six", "Seven",
             "Eight", "Nine", "Ten", "Jack", "Queen", "King"
@@ -16,7 +16,7 @@ public class Deck
         {
             foreach (var suit in suits)
             {
-                Card card = new Card();
+                var card = new Card();
                 card.Suit = suit;
                 card.Value = face;
                 Cards.Add(card);
@@ -28,14 +28,14 @@ public class Deck
     
     public static Deck Shuffle(Deck deck)
     {
-        Random random = new Random();
-        int n = deck.Cards.Count;
+        var random = new Random();
+        var n = deck.Cards.Count;
         
         while (n > 1)
         {
             n--;
             var k = random.Next(n + 1);
-            Card card = deck.Cards[k];
+            var card = deck.Cards[k];
             deck.Cards[k] = deck.Cards[n];
             deck.Cards[n] = card;
         }
@@ -45,7 +45,7 @@ public class Deck
 
     public static Deck Shuffle(Deck deck, int times)
     {
-        for (int i = 0; i < times; i++)
+        for (var i = 0; i < times; i++)
         {
             deck = Shuffle(deck);
         }
