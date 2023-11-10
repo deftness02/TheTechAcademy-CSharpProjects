@@ -1,0 +1,15 @@
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/bin/Debug/net7.0/structApp
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/bin/Debug/net7.0/structApp.deps.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/bin/Debug/net7.0/structApp.runtimeconfig.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/bin/Debug/net7.0/structApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/bin/Debug/net7.0/structApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/structApp.csproj.AssemblyReference.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/structApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/structApp.AssemblyInfoInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/structApp.AssemblyInfo.cs
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/structApp.csproj.CoreCompileInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/structApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/refint/structApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/structApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/structApp.genruntimeconfig.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/structApp/obj/Debug/net7.0/ref/structApp.dll

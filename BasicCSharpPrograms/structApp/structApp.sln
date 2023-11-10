@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "structApp", "structApp.csproj", "{BFF93F2F-A8AB-41CC-95B2-6BED9588E28A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFF93F2F-A8AB-41CC-95B2-6BED9588E28A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFF93F2F-A8AB-41CC-95B2-6BED9588E28A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFF93F2F-A8AB-41CC-95B2-6BED9588E28A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFF93F2F-A8AB-41CC-95B2-6BED9588E28A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
