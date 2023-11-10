@@ -1,11 +1,6 @@
 ﻿using DeckGame;
 using Blackjack;
 
-Game game = new BlackjackGame();
-game.Players = new List<Player>();
-var player = new Player() { Name = "Jesse" };
-game += player;
-game -= player;
 
 
 var deck = new Deck();
