@@ -1,0 +1,15 @@
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/bin/Debug/net7.0/lambdaApp
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/bin/Debug/net7.0/lambdaApp.deps.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/bin/Debug/net7.0/lambdaApp.runtimeconfig.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/bin/Debug/net7.0/lambdaApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/bin/Debug/net7.0/lambdaApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/lambdaApp.csproj.AssemblyReference.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/lambdaApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/lambdaApp.AssemblyInfoInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/lambdaApp.AssemblyInfo.cs
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/lambdaApp.csproj.CoreCompileInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/lambdaApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/refint/lambdaApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/lambdaApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/lambdaApp.genruntimeconfig.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/lambdaApp/obj/Debug/net7.0/ref/lambdaApp.dll

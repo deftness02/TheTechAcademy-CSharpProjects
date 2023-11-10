@@ -11,7 +11,7 @@ public class Deck
             for (int j = 0; j < 4; j++)
             {
                 var card = new Card();
-                card.Face = ((Face)i).ToString();
+                card.Face = (Face)i;
                 card.Suit = (Suit)j;
                 Cards.Add(card);
             }

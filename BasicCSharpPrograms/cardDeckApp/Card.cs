@@ -3,7 +3,7 @@ namespace DeckGame;
 public struct Card
 {
     public Suit Suit { get; set; }
-    public string Face { get; set; }
+    public Face Face { get; set; }
 }
 
 public enum Suit
