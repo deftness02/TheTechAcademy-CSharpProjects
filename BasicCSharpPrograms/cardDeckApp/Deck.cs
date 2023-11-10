@@ -5,20 +5,14 @@ public class Deck
     public Deck()
     {
         Cards = new List<Card>();
-        var suits = new List<string>() { "Clubs", "Hearts", "Diamonds", "Spades" };
-        var faces = new List<string>()
+        
+        for (int i = 0; i < 13; i++)
         {
-            "Ace", "Two", "Three", "Four", "Five", "Six", "Seven",
-            "Eight", "Nine", "Ten", "Jack", "Queen", "King"
-        };
-
-        foreach (var face in faces)
-        {
-            foreach (var suit in suits)
+            for (int j = 0; j < 4; j++)
             {
                 var card = new Card();
-                card.Suit = suit;
-                card.Value = face;
+                card.Face = ((Face)i).ToString();
+                card.Suit = (Suit)j;
                 Cards.Add(card);
             }
         }
