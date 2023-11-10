@@ -1,10 +1,12 @@
 ﻿using DeckGame;
 using Blackjack;
 
-var game = new BlackjackGame();
-game.Players = new List<string>() { "Jesse", "Bill", "Joe" };
-game.ListPlayers();
-Console.ReadLine();
+Game game = new BlackjackGame();
+game.Players = new List<Player>();
+var player = new Player() { Name = "Jesse" };
+game += player;
+game -= player;
+
 
 var deck = new Deck();
 Deck.Shuffle(deck, 3);

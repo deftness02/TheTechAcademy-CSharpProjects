@@ -1,9 +1,11 @@
+using Blackjack;
+
 namespace DeckGame;
 
 public abstract class Game
 {
     // Set properties for base game
-    public List<string> Players { get; set; }
+    public List<Player> Players { get; set; }
     public string Name { get; set; }
     public string Dealer { get; set; }
 
@@ -14,7 +16,7 @@ public abstract class Game
     {
         foreach (var player in Players)
         {
-            Console.WriteLine(player);
+            Console.WriteLine(player.Name);
         }
     }
 }

@@ -1,0 +1,15 @@
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/bin/Debug/net7.0/operatorsApp
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/bin/Debug/net7.0/operatorsApp.deps.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/bin/Debug/net7.0/operatorsApp.runtimeconfig.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/bin/Debug/net7.0/operatorsApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/bin/Debug/net7.0/operatorsApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/operatorsApp.csproj.AssemblyReference.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/operatorsApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/operatorsApp.AssemblyInfoInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/operatorsApp.AssemblyInfo.cs
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/operatorsApp.csproj.CoreCompileInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/operatorsApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/refint/operatorsApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/operatorsApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/operatorsApp.genruntimeconfig.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/operatorsApp/obj/Debug/net7.0/ref/operatorsApp.dll
