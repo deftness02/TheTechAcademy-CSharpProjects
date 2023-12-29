@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fullCardDeckApp", "fullCardDeckApp.csproj", "{93353D01-CA7F-436E-9435-C2307B386FDC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{93353D01-CA7F-436E-9435-C2307B386FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93353D01-CA7F-436E-9435-C2307B386FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93353D01-CA7F-436E-9435-C2307B386FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93353D01-CA7F-436E-9435-C2307B386FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

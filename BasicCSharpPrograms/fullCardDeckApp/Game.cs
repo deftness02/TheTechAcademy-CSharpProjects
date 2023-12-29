@@ -1,0 +1,23 @@
+using Blackjack;
+
+namespace CardGame;
+
+public abstract class Game
+{
+    // Set properties for base game
+    public List<Player> Players { get; set; }
+    public string Name { get; set; }
+    public string Dealer { get; set; }
+    public Dictionary<Player, int> Bets { get; set; }
+
+    // Set base method for play to be overridden by each game type
+    public abstract void Play();
+    
+    public virtual void ListPlayers()
+    {
+        foreach (var player in Players)
+        {
+            Console.WriteLine(player.Name);
+        }
+    }
+}
