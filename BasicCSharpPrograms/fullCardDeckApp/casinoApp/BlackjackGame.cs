@@ -22,13 +22,25 @@ public class BlackjackGame : Game, IWalkAway
         Dealer.Stay = false;
         Dealer.Deck = new Deck();
         Deck.Shuffle(Dealer.Deck);
-        
-        // Handle bets
-        Console.WriteLine("Place your bet.");
 
         foreach (var player in Players)
         {
-            int bet = Convert.ToInt32(Console.ReadLine());
+            var validBet = false;
+            var bet = 0;
+            
+            while (!validBet)
+            {
+                validBet = int.TryParse(Console.ReadLine(), out bet);
+
+                if (!validBet)
+                    Console.WriteLine("Please enter digits only, no decimals.");
+            }
+            
+            if (bet < 0)
+            {
+                throw new ApplicationException("Security! Kick this moron out. He can't even bet right.");
+            }
+            
             bool successfullyBet = player.Bet(bet);
             
             if (!successfullyBet)

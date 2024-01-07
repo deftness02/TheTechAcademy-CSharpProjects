@@ -1,13 +1,17 @@
 ﻿using Casino;
 using CardGame.Blackjack;
+using casinoApp;
+
+const string casinoName = "Grand Budapest Hotel Casino";
 
 // Start the app with introductions and information gathering
-Console.WriteLine("Grand Budapest Card Game");
+Console.WriteLine(casinoName);
 Console.WriteLine("----------------------");
 Console.WriteLine();
 Console.WriteLine("Welcome to the Grand Budapest Hotel Casino. What is your name?");
 
 string playerName = Console.ReadLine() ?? string.Empty;
+var playerId = Guid.NewGuid();
 
 Console.WriteLine($"Hello, {playerName}! How much money did you bring today?");
 
@@ -19,16 +23,11 @@ var hasMoney = false;
 
 while (!hasMoney)
 {
-    // Implement try/catch to make sure user enters an integer value
-    try
-    {
-        bank = int.Parse(Console.ReadLine()!.Replace("$", ""));
-        hasMoney = true;
-    }
-    catch
-    {
-        Console.WriteLine("Please enter a number greater than 0.");
-    }
+    Console.WriteLine("And how much money did you bring today?");
+        
+    hasMoney = int.TryParse(Console.ReadLine(), out bank);
+    if (!hasMoney)
+        Console.WriteLine("Please enter digits only.");
 }
 
 Console.WriteLine($"You brought ${bank} with you today. Good luck!");
@@ -63,6 +62,14 @@ Console.ReadLine();
 
 // Get an instance of the player and game running
 Player player = new Player(playerName, bank);
+player.Id = playerId;
+
+// Log the player's ID to a file
+using (StreamWriter file = new StreamWriter("logFile.txt", true))
+{
+    file.WriteLine("Player ID: " + player.Id);
+}
+
 Game game = new BlackjackGame();
 game += player;
 player.IsActivelyPlaying = true;
@@ -70,7 +77,22 @@ player.IsActivelyPlaying = true;
 // Logic for when they are playing the game
 while (player.IsActivelyPlaying && player.Balance > 0)
 {
-    game.Play();
+    try
+    {
+        game.Play();
+    }
+    catch (FraudException)
+    {
+        Console.WriteLine("Nice try. You think I was born yesterday, squirt? You're outta here!");
+        Console.ReadLine();
+        return;
+    }
+    catch (Exception)
+    {
+        Console.WriteLine("An error occurred. Please try again.");
+        Console.ReadLine();
+        return;
+    }
 }
 
 // Logic for when they quit the game
