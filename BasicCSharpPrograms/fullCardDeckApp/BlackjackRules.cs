@@ -86,7 +86,7 @@ public class BlackjackRules
             return true;
         if (playerScore < dealerScore)
             return false;
-        else
-            return null;
+        
+        return null;
     }
 }

@@ -21,6 +21,7 @@ public class BlackjackGame : Game, IWalkAway
         Dealer.Hand = new List<Card>();
         Dealer.Stay = false;
         Dealer.Deck = new Deck();
+        Deck.Shuffle(Dealer.Deck);
         
         // Handle bets
         Console.WriteLine("Place your bet.");
@@ -78,6 +79,8 @@ public class BlackjackGame : Game, IWalkAway
                     {
                         Dealer.Balance += entry.Value;
                     }
+
+                    return;
                 }
             }
         }
@@ -118,9 +121,15 @@ public class BlackjackGame : Game, IWalkAway
                     answer = Console.ReadLine().ToLower();
 
                     if (answer == "yes" || answer == "y")
+                    {
                         player.IsActivelyPlaying = true;
+                        return;
+                    }
                     else
+                    {
                         player.IsActivelyPlaying = false;
+                        return;
+                    }
                 }
             }
         }
