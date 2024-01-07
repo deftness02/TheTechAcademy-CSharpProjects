@@ -1,5 +1,5 @@
-﻿using Blackjack;
-using CardGame;
+﻿using Casino;
+using CardGame.Blackjack;
 
 // Start the app with introductions and information gathering
 Console.WriteLine("Grand Budapest Card Game");

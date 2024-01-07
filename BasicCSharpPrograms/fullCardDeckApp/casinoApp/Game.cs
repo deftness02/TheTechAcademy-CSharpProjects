@@ -1,6 +1,6 @@
-using Blackjack;
+using CardGame;
 
-namespace CardGame;
+namespace Casino;
 
 public abstract class Game
 {

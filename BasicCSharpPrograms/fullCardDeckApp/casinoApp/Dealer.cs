@@ -1,6 +1,6 @@
 using CardGame;
 
-namespace Blackjack;
+namespace Casino;
 
 public class Dealer
 {

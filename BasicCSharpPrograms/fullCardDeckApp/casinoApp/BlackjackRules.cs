@@ -1,4 +1,6 @@
-namespace CardGame;
+using Casino;
+
+namespace CardGame.Blackjack;
 
 public class BlackjackRules
 {

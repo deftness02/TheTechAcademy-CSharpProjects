@@ -1,0 +1,12 @@
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/bin/Debug/net7.0/casinoApp.deps.json
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/bin/Debug/net7.0/casinoApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/bin/Debug/net7.0/casinoApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/casinoApp.csproj.AssemblyReference.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/casinoApp.GeneratedMSBuildEditorConfig.editorconfig
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/casinoApp.AssemblyInfoInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/casinoApp.AssemblyInfo.cs
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/casinoApp.csproj.CoreCompileInputs.cache
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/casinoApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/refint/casinoApp.dll
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/casinoApp.pdb
+/Volumes/Projekt/gitHub/TheTechAcademy/TheTechAcademy-CSharpProjects/BasicCSharpPrograms/fullCardDeckApp/casinoApp/obj/Debug/net7.0/ref/casinoApp.dll

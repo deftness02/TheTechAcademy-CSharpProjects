@@ -1,4 +1,4 @@
-namespace CardGame;
+namespace Casino;
 
 public struct Card
 {

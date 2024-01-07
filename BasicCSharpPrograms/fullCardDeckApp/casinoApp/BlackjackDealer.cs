@@ -1,6 +1,6 @@
-using CardGame;
+using Casino;
 
-namespace Blackjack;
+namespace CardGame.Blackjack;
 
 public class BlackjackDealer : Dealer
 {
