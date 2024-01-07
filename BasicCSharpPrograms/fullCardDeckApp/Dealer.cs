@@ -12,7 +12,14 @@ public class Dealer
     {
         var firstCard = Deck.Cards.First();
         Hand.Add(firstCard);
+        
+        var cardLog = string.Format(firstCard.ToString() + "\n");
+        
         Console.WriteLine(firstCard + "\n");
+        using (StreamWriter file = new StreamWriter("logFile.txt", true))
+        {
+            file.WriteLine(cardLog);
+        }
         Deck.Cards.RemoveAt(0);
     }
 }
