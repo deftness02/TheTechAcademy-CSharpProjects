@@ -18,6 +18,7 @@ public class Dealer
         Console.WriteLine(firstCard + "\n");
         using (StreamWriter file = new StreamWriter("logFile.txt", true))
         {
+            file.WriteLine(DateTime.Now);
             file.WriteLine(cardLog);
         }
         Deck.Cards.RemoveAt(0);
