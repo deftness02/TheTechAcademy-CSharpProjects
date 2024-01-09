@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "fullCardDeckApp", "fullCardDeckApp.csproj", "{93353D01-CA7F-436E-9435-C2307B386FDC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "casinoApp", "casinoApp\casinoApp.csproj", "{0F5E2B1F-8422-4C17-9983-4DE285E8432D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -9,8 +11,13 @@ Global
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{93353D01-CA7F-436E-9435-C2307B386FDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{93353D01-CA7F-436E-9435-C2307B386FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93353D01-CA7F-436E-9435-C2307B386FDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93353D01-CA7F-436E-9435-C2307B386FDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93353D01-CA7F-436E-9435-C2307B386FDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93353D01-CA7F-436E-9435-C2307B386FDC}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{0F5E2B1F-8422-4C17-9983-4DE285E8432D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F5E2B1F-8422-4C17-9983-4DE285E8432D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F5E2B1F-8422-4C17-9983-4DE285E8432D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F5E2B1F-8422-4C17-9983-4DE285E8432D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

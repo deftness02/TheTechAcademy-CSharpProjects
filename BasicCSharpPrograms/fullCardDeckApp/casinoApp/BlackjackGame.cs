@@ -1,4 +1,5 @@
 using Casino;
+using casinoApp;
 
 namespace CardGame.Blackjack;
 
@@ -38,7 +39,7 @@ public class BlackjackGame : Game, IWalkAway
             
             if (bet < 0)
             {
-                throw new ApplicationException("Security! Kick this moron out. He can't even bet right.");
+                throw new FraudException("Security! Kick this moron out. He can't even bet right.");
             }
             
             bool successfullyBet = player.Bet(bet);

@@ -11,6 +11,20 @@ Console.WriteLine();
 Console.WriteLine("Welcome to the Grand Budapest Hotel Casino. What is your name?");
 
 string playerName = Console.ReadLine() ?? string.Empty;
+
+if (playerName.ToLower() == "admin")
+{
+    List<ExceptionEntity> Exceptions = ExceptionEntity.ReadExceptions();
+    
+    foreach (var exception in Exceptions)
+    {
+        Console.WriteLine(exception.Id + " | " + exception.ExceptionType + " | " + exception.ExceptionMessage + " | " + exception.TimeStamp);
+    }
+
+    Console.ReadLine();
+    return;
+}
+
 var playerId = Guid.NewGuid();
 
 Console.WriteLine($"Hello, {playerName}! How much money did you bring today?");
@@ -81,15 +95,17 @@ while (player.IsActivelyPlaying && player.Balance > 0)
     {
         game.Play();
     }
-    catch (FraudException)
+    catch (FraudException ex)
     {
         Console.WriteLine("Nice try. You think I was born yesterday, squirt? You're outta here!");
+        Game.UpdateDbWithException(ex);
         Console.ReadLine();
         return;
     }
-    catch (Exception)
+    catch (Exception ex)
     {
         Console.WriteLine("An error occurred. Please try again.");
+        Game.UpdateDbWithException(ex);
         Console.ReadLine();
         return;
     }
